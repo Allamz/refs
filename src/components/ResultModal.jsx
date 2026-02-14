@@ -38,3 +38,6 @@ const ResultModal = forwardRef(function ResultModal(
 });
 
 export default ResultModal;
+});
+
+export default ResultModal;
